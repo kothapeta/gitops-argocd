@@ -1,4 +1,4 @@
-replicaCount: 100
+replicaCount: 1
 
 image:
   repository: siddharth67/php-random-shapes:v1
